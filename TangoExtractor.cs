@@ -110,7 +110,7 @@ namespace The_Evil_Within_Audio_Manager
                                 Path.GetDirectoryName(msadpcmPath) ?? outputDir,
                                 justName + ".wav"
                             );
-                            Log($"Gerando WAV: {justName}.wav");
+                            Log($"Creating: {justName}.wav");
                             GenerateWave(msadpcmPath, bsndPath, wavOut);
                             convertedCount++;
                             break;
