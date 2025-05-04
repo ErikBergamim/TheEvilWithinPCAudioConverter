@@ -187,7 +187,7 @@ namespace The_Evil_Within_Audio_Manager
                     CheckAvailable(file, 4);
                     uint offset = ReadBigEndianUInt32(reader);
                     if (offset >= fileLength)
-                        throw new EndOfStreamException($"Offset ({offset}) maior que o tamanho do arquivo ({fileLength}).");
+                        throw new EndOfStreamException($"Offset ({offset}) larger than the file size ({fileLength}).");
 
                     file.Seek(offset, SeekOrigin.Begin);
                     CheckAvailable(file, 12);
@@ -200,7 +200,7 @@ namespace The_Evil_Within_Audio_Manager
                     uint num2 = ReadBigEndianUInt32(reader);
                     long skipOffset = file.Position + ((num1 + num2) * 2);
                     if (skipOffset > fileLength)
-                        throw new EndOfStreamException("Área de nomes fora do arquivo.");
+                        throw new EndOfStreamException("Name area outside the file.");
 
                     file.Seek(skipOffset, SeekOrigin.Begin);
 
