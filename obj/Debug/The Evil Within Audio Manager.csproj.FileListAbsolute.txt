@@ -1,0 +1,16 @@
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\bin\Debug\The Evil Within Audio Manager.exe.config
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\bin\Debug\The Evil Within Audio Manager.exe
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\bin\Debug\The Evil Within Audio Manager.pdb
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager.csproj.AssemblyReference.cache
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\App.g.cs
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager_MarkupCompile.cache
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager_MarkupCompile.lref
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\App.baml
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\MainWindow.baml
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager.g.resources
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The_Evil_Within_Audio_Manager.Properties.Resources.resources
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager.exe
+C:\Users\Erik\source\repos\The Evil Within Audio Manager\obj\Debug\The Evil Within Audio Manager.pdb
